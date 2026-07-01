@@ -10,4 +10,4 @@
 
 - ชื่อ-สกุล:
 - รหัสนักศึกษา:
-- <strong>GITHUB PAGE URL : </strong>
+- <strong>GITHUB PAGE URL : </strong>https://cpe207-2569.github.io/lab03-ronalitocalitos/
